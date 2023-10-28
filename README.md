@@ -2,6 +2,8 @@
 
 * Local-Variable Syntax for Lambda Parameters
 
+* New String Methods
+
 
 * Nest-Based Access Control
 
