@@ -49,6 +49,11 @@ public class StringTest {
     @Test
     void repeatMethod(){
         String hello = "hello";
+        String blank = "";
+        String space = " ";
+
         assertEquals("hellohellohello", hello.repeat(3));
+        assertEquals("", blank.repeat(3));
+        assertEquals("   ", space.repeat(3));
     }
 }
