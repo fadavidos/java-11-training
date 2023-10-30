@@ -3,16 +3,19 @@
 
 ## Futures:
 
-* Local-Variable Syntax for Lambda Parameters
+### Local-Variable Syntax for Lambda Parameters
 
 
-* New String Methods
+### New String Methods
+
+Java 11 adds a few new methods to the String class: isBlank, lines, strip, stripLeading, stripTrailing, and repeat
 
 
-* New File methods
+### New File methods
 
+writeString and readString
 
-* Running Java Files:
+### Running Java Files:
 
 You don't need to use `javac` to compile anymore, now you can run using `java`:
 
